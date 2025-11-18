@@ -1,0 +1,68 @@
+// 기사 목록 더미 데이터
+export const resersData = [
+  {
+    id: "#1001",
+    customerName: "김철수",
+    type: "일반청소",
+    date: "2025-11-10 14:00",
+    status: "예약완료",
+    worker: "이지은",
+  },
+  {
+    id: "#1002",
+    customerName: "박영희",
+    type: "입주청소",
+    date: "2025-11-11 10:00",
+    status: "진행중",
+    worker: "최윤호",
+  },
+  {
+    id: "#1003",
+    customerName: "이민수",
+    type: "이사청소",
+    date: "2025-11-12 15:00",
+    status: "대기중",
+    worker: "-",
+  },
+  {
+    id: "#1004",
+    customerName: "정다은",
+    type: "일반청소",
+    date: "2025-11-13 11:00",
+    status: "예약완료",
+    worker: "이지은",
+  },
+  {
+    id: "#1005",
+    customerName: "최준호",
+    type: "입주청소",
+    date: "2025-11-14 09:00",
+    status: "대기중",
+    worker: "-",
+  },
+  {
+    id: "#1006",
+    customerName: "한미영",
+    type: "이사청소",
+    date: "2025-11-15 13:00",
+    status: "예약완료",
+    worker: "최윤호",
+  },
+  {
+    id: "#1007",
+    customerName: "송민준",
+    type: "일반청소",
+    date: "2025-11-16 15:00",
+    status: "진행중",
+    worker: "이지은",
+  },
+  {
+    id: "#1008",
+    customerName: "윤서연",
+    type: "입주청소",
+    date: "2025-11-17 10:00",
+    status: "대기중",
+    worker: "-",
+  },
+];
+
